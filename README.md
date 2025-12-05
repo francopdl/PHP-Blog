@@ -4,6 +4,11 @@ Pasos para iniciar el servidor:
 3. Por ultimo en Google poner el la barra de busqueda: http://localhost:8000/
 
 
+USUARIO DEL ADMINISTRADOR:
+NOMBRE: admin
+CONTRASEÑA: Admin1234
+
+
 
 PLANTUML:
 
